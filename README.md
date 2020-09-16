@@ -24,7 +24,7 @@ With a close colleague, we have a half-way developed game, Lost In Peril using L
 Also with a close colleague, a cattle voting application is in the works.
 Beyond those two projects, I also update my portfolio and github quite frequently.
 ### 📫 Where to find me
-<a href="dennismcmeekan@gmail.com">Email</a>
+Email me: dennismcmeekan@gmail.com
 
 
 
