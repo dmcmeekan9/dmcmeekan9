@@ -9,7 +9,7 @@
 --!>
 
 ### 💼 Work
-I am currently a Software Engineer in a company located out of Des Moines, IA.
+I am currently a Software Engineer for a company located out of Des Moines, IA.
 This involves certain tasks involving working on the mainframe,
 and plug-in development among other projects. 
 
