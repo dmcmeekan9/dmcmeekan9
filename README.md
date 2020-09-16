@@ -5,8 +5,8 @@
 --!>
 
 - 🔭 I’m currently working on my Master's degree in CS at Western Illinois University! <br>
-- 🌱 I’m currently learning how to work on the mainframe at current place of work, as well as further software development in relation to
-  server-side development and WebRTC. This involves current course work among side projects.
+- 🌱 I’m currently learning how to work on the mainframe at current place of work, <br> as well as further software development in relation to
+  server-side development and WebRTC. This involves current course work among side projects. <br>
 - ⚡ Fun fact: I am twenty-two and love sports
 
 
