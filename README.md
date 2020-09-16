@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! My name is Dennis McMeekan. 👋</h2>
-<p align="center">I am a tewnty-two year old student at Western Illinois University.
+<p align="center">I am a twenty-two year old student at Western Illinois University.
   I recently achieved my Bachelor's degree in Computer Science, and am now working 
   towards my Master's. I enjoy learning new and conquering new obstacles each and 
   every day, and we all must take it upon our selves to achieve something better!
