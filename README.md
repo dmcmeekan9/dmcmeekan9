@@ -12,11 +12,8 @@
 - ⚡ Fun fact: I am twenty-two and love sports.<br>
 ### 📫 Where to find me
 ### 💻 What i am currently/done working on
-
 ### 💼 Where i am currently working at/as
-<h2 align="center">Hello there! My name is Dennis McMeekan. 👋🤓</h2>
-<p align="center">Description
-</p>
+
 
 
 
