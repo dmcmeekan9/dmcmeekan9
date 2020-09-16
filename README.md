@@ -21,7 +21,7 @@ that involves the creation of my own security protocols for WebRTC. <br>
 ### 💻 Current Projects
 I have three projects currently in full-force.
 With a close colleague, @timmay54, we have a half-way developed game, Lost In Peril using the game engine LibGDX.
-Also with, @timmay54, a cattle voting application is in the works. Beyond those two projects, I also update my portfolio and github quite frequently.
+Also with, @timmay54, a animal voting application intended for animal shows is in the works. Beyond those two projects, I also update my portfolio and github quite frequently.
 ### 📫 Where to find me
 Email me: dennismcmeekan@gmail.com
 
