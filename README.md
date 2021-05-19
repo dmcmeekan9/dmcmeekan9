@@ -17,7 +17,7 @@ This involves certain tasks involving working on the mainframe and product devel
 ### 🔭 School
 I have completed two degrees, Master's and Bachelor's in Computer Science, at Western Illinois University.
 I have taken courses focused on computer architecture, server-side development, databases, AI, and distributed systems. 
-I also have a published thesis <b> Securing WebRTC </b>.
+I also have a published thesis: <b> Securing WebRTC </b>.
 ### 💻 Current Projects
 I have three projects currently in full-force:
 * With a close colleague, [Tim Mardesen](https://github.com/timmay54/), we have a half-way developed game, [Lost In Peril](https://github.com/dmcmeekan9/lost_in_peril) using the game engine [LibGDX](https://github.com/libgdx/libgdx).
