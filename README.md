@@ -1,8 +1,9 @@
 <h2 align="center">Hello there! My name is Dennis McMeekan. 👋</h2>
 <p align="center">
   I am a twenty-two year old Software Engineer.
-  I recently achieved my <b>Master's degree in Computer Science</b>, which was completed in one year after completing
-  my Bachelor's degree in Computer Science. I enjoy learning new concepts and conquering obstacles each and 
+  I recently achieved my <b>Master's degree in Computer Science</b>, which was completed in one year after achieving
+  my Bachelor's degree also in Computer Science. All of my post-secondary schooling was accomplished at Western Illinois University.
+  I enjoy learning new concepts and conquering obstacles each and 
   every day, and we all must take it upon our selves to achieve something better!
 </p>
 <!--
@@ -12,13 +13,11 @@ Check out this REPO : https://towardsdatascience.com/build-a-stunning-readme-for
 
 ### 💼 Work
 I am currently a Software Engineer for a company located out of Des Moines, IA.
-This involves certain tasks involving working on the mainframe,
-and plug-in development among other projects. 
+This involves certain tasks involving working on the mainframe and product development among other projects. 
 ### 🔭 School
-I am in graduate school at Western Illinois University with intentions
-of graduating in May 2021. I currently have courses focused on computer architecture,
-server-side development, and distributed systems. I also am working on a thesis
-that involves the creation of my own security protocols for WebRTC. 
+I have completed two degrees, Master's and Bachelor's in Computer Science, at Western Illinois University.
+I have taken courses focused on computer architecture, server-side development, databases, AI, and distributed systems. 
+I also have a published thesis <b> Securing WebRTC </b>.
 ### 💻 Current Projects
 I have three projects currently in full-force:
 * With a close colleague, [Tim Mardesen](https://github.com/timmay54/), we have a half-way developed game, [Lost In Peril](https://github.com/dmcmeekan9/lost_in_peril) using the game engine [LibGDX](https://github.com/libgdx/libgdx).
