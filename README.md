@@ -1,8 +1,8 @@
 <h2 align="center">Hello there! My name is Dennis McMeekan. 👋</h2>
 <p align="center">
-  I am a twenty-two year old student at Western Illinois University.
-  I recently achieved my <b>Bachelor's degree in Computer Science</b>, and am now working 
-  towards my <b>Master's</b>. I enjoy learning new concepts and conquering obstacles each and 
+  I am a twenty-two year old Software Engineer.
+  I recently achieved my <b>Master's degree in Computer Science</b>, which was completed in one year after completing
+  my Bachelor's degree in Computer Science. I enjoy learning new concepts and conquering obstacles each and 
   every day, and we all must take it upon our selves to achieve something better!
 </p>
 <!--
