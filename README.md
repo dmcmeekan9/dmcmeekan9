@@ -13,7 +13,7 @@ Check out this REPO : https://towardsdatascience.com/build-a-stunning-readme-for
 
 ### 💼 Work
 I am currently a Software Engineer located out of Des Moines, IA.
-This involves certain tasks involving working on the mainframe and product development among other projects. 
+My current focus is maintaining mainframe products and systems while integrating modern tooling to adapt for the future.
 ### 🔭 School
 I have completed two degrees, Master's and Bachelor's in Computer Science, at Western Illinois University.
 I have taken courses focused on computer architecture, server-side development, databases, AI, and distributed systems. 
