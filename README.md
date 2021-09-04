@@ -2,7 +2,7 @@
 <p align="center">
   I am a twenty-three year old Software Engineer.
   I recently achieved my <b>Master's degree in Computer Science</b>, which was completed in one year after achieving
-  my Bachelor's degree also in Computer Science. All of my post-secondary schooling was completed at Western Illinois University.
+  my Bachelor's degree in Computer Science. All of my post-secondary schooling was completed at Western Illinois University.
   I enjoy learning new concepts and conquering obstacles each and 
   every day, and we all must take it upon our selves to achieve something better!
 </p>
