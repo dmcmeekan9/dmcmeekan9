@@ -12,7 +12,7 @@ Check out this REPO : https://towardsdatascience.com/build-a-stunning-readme-for
 --!>
 
 ### 💼 Work
-I am currently a Software Engineer for a company located out of Des Moines, IA.
+I am currently a Software Engineer for located out of Des Moines, IA.
 This involves certain tasks involving working on the mainframe and product development among other projects. 
 ### 🔭 School
 I have completed two degrees, Master's and Bachelor's in Computer Science, at Western Illinois University.
