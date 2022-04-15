@@ -1,6 +1,5 @@
 <h2 align="center">Hello there! My name is Dennis McMeekan. 👋</h2>
 <p align="center">
-  I am a twenty-three year old Software Engineer.
   I recently achieved my <b>Master's degree in Computer Science</b>, which was completed in one year after achieving
   my Bachelor's degree in Computer Science.
   I enjoy learning new concepts and conquering obstacles each and 
