@@ -13,12 +13,10 @@ Technology leader with a strong foundation in software engineering and a passion
 
 I bring a blend of hands-on technical expertise and people-first leadership—valuing clean design, operational excellence, and continuous learning. My background spans cloud technologies, enterprise software development, and secure, high-availability systems.
 
-Beyond the code, I’m motivated by developing others, fostering strong team culture, and simplifying complex problems so teams can move faster with confidence. I’m particularly interested in modern cloud platforms, developer enablement, and building foundations that help engineering teams do their best work.
-
-Always open to learning, collaboration, and conversations about technology, leadership, and the future of engineering.
+Beyond the code, I’m motivated by developing others, fostering strong team culture, and simplifying complex problems so teams can move faster with confidence. I’m particularly interested in modern cloud platforms, developer enablement, and building foundations that help engineering teams do their best work. Always open to learning, collaboration, and conversations about technology, leadership, and the future of engineering.
 ### 🔭 School
 I have completed two degrees, Master's and Bachelor's in Computer Science.
-I also have a published thesis: <b> Securing WebRTC </b>.
+I also have a published thesis: <b> Securing WebRTC</b>.
 ### 💻 Current Projects
 ClubHub - a golf assistant for finding tee times.
 Sunday Ledger - a fantasy football app for viewing historical data.
