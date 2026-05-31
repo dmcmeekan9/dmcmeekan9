@@ -25,7 +25,7 @@ PokeTracker - an automated tool for identifying in-stock Pokemon cards.
 Email me: <dennismcmeekan@gmail.com>
 
 <!--img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME" -->
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=dmcmeekan9&show_icons=true&theme=buefy)
+<img src="https://ghstats.dev/api/card?username=dmcmeekan9&theme=midnight" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/langs?username=dmcmeekan9&theme=midnight" alt="Top Languages" />
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dmcmeekan9) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dmcmeekan/) 
