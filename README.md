@@ -18,9 +18,9 @@ Beyond the code, I’m motivated by developing others, fostering strong team cul
 I have completed two degrees, Master's and Bachelor's in Computer Science.
 I also have a published thesis: <b> Securing WebRTC</b>.
 ### 💻 Current Projects
-ClubHub - a golf assistant for finding tee times.
-Sunday Ledger - a fantasy football app for viewing historical data.
-PokeTracker - an automated tool for identifying in-stock Pokemon cards.
++ ClubHub - a golf assistant for finding tee times.
++ Sunday Ledger - a fantasy football app for viewing historical data.
++ PokeTracker - an automated tool for identifying in-stock Pokemon cards.
 ### 📫 Where to find me
 Email me: <dennismcmeekan@gmail.com>
 
